@@ -15,5 +15,5 @@ A sleek and responsive Weather App built using **React.js** and **Vite**. It fet
 - **React.js**
 - **Vite**
 - **CSS3**
-- **OpenWeatherMap API** *(or any weather API you used)*
+- **OpenWeatherMap API**
 
